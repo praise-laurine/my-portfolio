@@ -3,4 +3,12 @@ body{
     padding: 0;
     box-sizing: border-box;
     }
+.header{
+    background: url(nature.webp);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}    
     
