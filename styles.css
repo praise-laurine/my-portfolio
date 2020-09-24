@@ -14,5 +14,15 @@ body{
 .nav{
     text-align: center;
     padding: 20px;
-}   
+} 
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-right: 80px;
+    border: 2px solid transparent;
+    padding: 10px;
+    transition: 0.3s;
+}  
     
