@@ -34,8 +34,24 @@ body{
     text-align: center;
 }
 .header-content img{
-    border-radius: 50px;
+    border-radius: ro 50px;
     border: 2px solid #fff;
-     
-    
-}  
+     margin-top: 20px;
+    }
+.header-content img:hover{
+    border: 2px solid #000;
+}
+.name{
+    cursor: pointer;
+    font-size: 50px;
+    color: #fff;
+    font-family: sans-serif;
+    font-style:italic ;
+}
+.txt{
+    cursor: pointer;
+    font-family: sans-serif ;
+    font-size: 30px;
+    color: #fff;
+    font-style: italic;
+}      
