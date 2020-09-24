@@ -70,22 +70,36 @@ body{
     border: 2px solid gray;
     padding: 15px;
 }
-.contactme{
-    position: relative;
-    right: 0;
-    top: 10px;
-    color: white;
-    padding: 0 60px;
-    display: none;
+body{
+    background-color: skyblue;
+    font-family: 'Poppins', sans-serif;
+
 }
-.inputtext{
-    width: 55px;
-    height: 65px;
-    border: 3px solid black;
-    color: white;
-}
+
 #contactme{
     font-size: 16px;
     width: 80%;
     margin: 50px auto;
-}     
+    
+} 
+.contact-box{
+    background: #fff;
+    display: flex;
+}
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: #1c00b5 ;
+    color: #fff;
+    
+}
+.contact-box h1{
+    margin-bottom: 10px;
+}
+.contactme p{
+    margin-bottom: 40px;
+}    
