@@ -143,8 +143,14 @@ button{
 }
 .contact-left h1{
     color: #1c00b5;
-    
+    font-weight: 600;
+    margin-bottom: 30px;
 }
+.contact-right h1{
+    font-weight: 600;
+    margin-bottom: 30px
+}
+
 
 
 
