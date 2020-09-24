@@ -10,5 +10,9 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}    
+} 
+.nav{
+    text-align: center;
+    padding: 20px;
+}   
     
