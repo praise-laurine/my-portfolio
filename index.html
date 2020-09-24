@@ -1,44 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
+
 <body>
-    <div class="container">
-        <div class="header">
-          <div class="nav">
-            <a href="#">Home</a>
-            <a href="#">About Me</a>
-            <a href="#">Latest projects</a>
-            <a href="#">Contact Me</a>
-          </div>
-          <div class="header-content">
-          <img src="IMG-20200919-WA0031.jpg" height="300px" width="300px">
-          <p class="name">Laurine Praise</p>
-          <p class="txt">Software Developer</p>
-         </div>
-        </div>
-        <div id="about-section">
-          <h2>About Me</h2>
-          <p>During my high school years I had passion in coding and now have joined Moringa school to better my skills and pursue programming  as a career. I decided to take a class in progamming at Moringa school to gain more knowledge and expound my skills in coding. coding is interesting and dynamic aslo in that it can help solve some of our community's problems and i see myself in years time as a great software developer ready to change our community.</p>
-        </div>
+  <div class="container">
+    <div class="header">
+      <div class="nav">
+        <a href="#">Home</a>
+        <a href="#">About Me</a>
+        <a href="#">Latest projects</a>
+        <a href="#">Contact Me</a>
+      </div>
+      <div class="header-content">
+        <img src="IMG-20200919-WA0031.jpg" height="300px" width="300px">
+        <p class="name">Laurine Praise</p>
+        <p class="txt">Software Developer</p>
+      </div>
     </div>
-    
-    <div id="contactme">
-      <h1 class="text">Connect with me</h1>
-      <p class="bn">Any project in mind? Feel free to get intouch with me.</p>
-      <form action="" method="POST">
-        <input type="text" name="" class="inputtext" value="First Name">
-        <input type="text" name="" class="inputtext" value="Second Name">
-        <input type="text" name="" class="inputtext" value="Youe Email">
-        <textarea cols="4" rows="6" class="inputmessage">Your Message</textarea>
-        <input type="button" name="" class="submitbutton" value="Submit">
-      </form>
+    <div id="about-section">
+      <h2>About Me</h2>
+      <p>During my high school years I had passion in coding and now have joined Moringa school to better my skills and
+        pursue programming as a career. I decided to take a class in progamming at Moringa school to gain more knowledge
+        and expound my skills in coding. coding is interesting and dynamic aslo in that it can help solve some of our
+        community's problems and i see myself in years time as a great software developer ready to change our community.
+      </p>
     </div>
-     
-    
+  </div>
+
+  <div id="contactme">
+    <h1 class="text">Connect with me</h1>
+    <p class="bn">Any project in mind? Feel free to get intouch with me.</p>
+    <div class="contact-box">
+      <div class="contact-left">
+        <h1>Send your request</h1>
+        <form>
+          <div class="input-row">
+            <div class="input-group">
+              <label>Name</label>
+              <input type="text" placeholder="Your Name">
+            </div>
+            <div class="input-row">
+              <div class="input-group">
+                <label>Phone</label>
+                <input type="text" placeholder="+254">
+              </div>
+              </div>
+              <div class="input-row">
+                <div class="input-group">
+                  <label>Email</label>
+                  <input type="Email" placeholder="Useremail@gmail.com">
+                </div>
+                <div class="input-row">
+                  <div class="input-group">
+                    <label>Subject</label>
+                    <input type="Subject" placeholder="Project demo">
+                  </div>
+               </div>
+               <label>Message</label>
+               <textarea rows="10"></textarea>
+        
+        </form>
+
+      </div>
+      <div class="contact-right">
+        <h1>Reach Me</h1>
+
+      </div>
+    </div>
+  </div>
+
+
+
 </body>
+
 </html>
