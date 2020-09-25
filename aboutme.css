@@ -1,0 +1,46 @@
+#aboutme-section h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-decoration: underline;
+} 
+#aboutme-section p{
+    font-size: 30px;
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid gray;
+    padding: 15px;
+    
+}
+body{
+    background-color: skyblue;
+
+.header-content {
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: #c4c4c4;
+	color: white;
+    text-align: center;
+    box-sizing: content-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+
+
+
+
+
+
