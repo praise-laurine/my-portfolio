@@ -34,7 +34,7 @@ body{
     text-align: center;
 }
 .header-content img{
-    border-radius: ro 50px;
+    border-radius: 50px;
     border: 2px solid #fff;
      margin-top: 20px;
     }
@@ -55,16 +55,15 @@ body{
     color: #fff;
     font-style: italic;
 }
-#about-section h2{
+#aboutme-section h2{
     text-align: center;
     font-size: 30px;
     font-family: sans-serif;
     text-decoration: underline;
 } 
-#about-section p{
+#aboutme-section p{
     font-size: 30px;
     width: 1000px;
-    font-family: roboto;
     text-align: center;
     margin: 0 auto;
     border: 2px solid gray;
@@ -154,6 +153,19 @@ tr td:first-child{
     padding-right: 20px;
     padding-top: 20px;
 }
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: #c4c4c4;
+	color: white;
+    text-align: center;
+    box-sizing: content-box;
+    
+}
+
+
 
 
 
