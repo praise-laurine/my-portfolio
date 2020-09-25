@@ -5,4 +5,6 @@ In this project i used html and css languages.This website is all about me. Here
 ## Author Name
 Laurine Praise
 ### Demo
-* To access my website [click here](https://www.example.com)
+* To access my website portfolio [click here](https://www.example.com)
+## Copyright and License
+Copyright © 2020 My Portfolio.
