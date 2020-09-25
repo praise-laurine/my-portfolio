@@ -3,5 +3,4 @@ In this project i used html and css languages.This website is all about me. Here
 ## Author Name
 Laurine Praise
 ### Project Setup
-*Go to your browser
 * To access my website [click here](https://www.example.com)
