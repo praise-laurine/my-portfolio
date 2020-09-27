@@ -98,18 +98,46 @@ tr td:first-child{
     padding-top: 20px;
     font-family: 'Poppins', sans-serif;
 }
-footer {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	bottom: 0;
-	background-color: #c4c4c4;
-	color: white;
+#footer{
+    background-color: #c4c4c4;
+    width: auto;
+    height: 80px;
+    clear: both;
+    margin:auto;
     text-align: center;
-    box-sizing: content-box;
-    font-family: 'Poppins', sans-serif;
-    
+    padding: 20px;
+
 }
+#footer>a{
+    padding-left: 20px;
+    border-bottom: none;
+
+}
+#footer>a:hover{
+    border-bottom: oldlace 5px solid;
+}
+
+i{
+    font-size: 20px;
+    padding: 20px;
+    /*float: left; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
