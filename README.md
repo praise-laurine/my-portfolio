@@ -8,4 +8,8 @@ Laurine Praise
 * To access my website portfolio [click here](https://www.example.com)
 ## Copyright and License
 Copyright © 2020 My Portfolio.
-
+# project set up and installation 
+* clone this repository to a location in your file system. [click here](https://github.com/praise-laurine/my-portfolio) to clone
+## Technologies Used
+HTML used as a building block for the webpage
+CSS used for styling the webpage
