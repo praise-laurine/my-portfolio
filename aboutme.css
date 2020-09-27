@@ -10,11 +10,13 @@
     text-align: center;
     margin: 0 auto;
     border: 2px solid gray;
-    padding: 15px;
-    
+    padding: 15px
 }
 body{
-    background-color: skyblue;
+    background-color: lightslategray;
+}
+.work h1{
+    padding-top: 30px;
 }
 
 .header-content {
@@ -51,6 +53,56 @@ body{
     font-weight: normal;
     right: -110px;
 }
+.des{
+    text-align: center;
+    top: -400px;
+    margin-top: 1px;
+    color: #fff;
+    margin: 7px 12px;
+    position: relative;
+    right: -60;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+}
+.feru p{
+    text-align: center;
+    top: -400px;
+    margin-top: 1px;
+    color: black;
+    margin: 7px 12px;
+    position: relative;
+    font-size: 25px;
+    font-weight: normal;
+    right: -250px;
+}
+.list h1{
+    top: 50px;
+}
+#footer{
+    background-color: #c4c4c4;
+    width: auto;
+    height: 80px;
+    clear: both;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+
+}
+#footer>a{
+    padding-left: 20px;
+    border-bottom: none;
+
+}
+#footer>a:hover{
+    border-bottom: oldlace 5px solid;
+}
+
+i{
+    font-size: 20px;
+    padding: 20px;
+    /*float: left; */
+
 
 
 
