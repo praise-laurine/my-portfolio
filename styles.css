@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
     }
 .header{
-    background: url(nature.webp);
+    background: url(image/nature.webp);
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
